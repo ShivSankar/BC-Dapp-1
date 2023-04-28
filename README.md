@@ -1,2 +1,2 @@
 # Dapp-1
-  It's a Dapp with it's smart contract deployed on Sepolia testnet.
+  It's a Dapp with all of it's smart contracts deployed on Sepolia testnet.
